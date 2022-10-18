@@ -7,10 +7,10 @@ port: 4000
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Youngtaek
+first_name: Minjun		
 middle_name: 
-last_name: Oh
-email: youngtaek.oh@kaist.ac.kr
+last_name: Kang
+email: kmmj2005@kaist.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
