@@ -59,12 +59,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 cv: cv.pdf
-github_username: ytaek-oh # your GitHub user name
+github_username: MinjunKang # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: ytaek_oh # your Twitter handle
-linkedin_username: young-taek-oh # your LinkedIn user name
-scholar_userid: JSUafnAAAAAJ # your Google Scholar ID
-orcid_id: # your ORCID ID
+twitter_username: kmmj2005 # your Twitter handle
+linkedin_username: Minjun Kang # your LinkedIn user name
+scholar_userid: cUJ1PMoAAAAJ # your Google Scholar ID
+orcid_id: 0000-0003-3102-7591 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -207,8 +207,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Oh
-  first_name: [Youngtaek]
+  last_name: Kang
+  first_name: [Minjun]
 
   style: apa
   locale: en

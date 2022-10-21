@@ -9,10 +9,6 @@
   - firstname: ["Kyungdon"]
     url: http://unist.info/?page_id=194
 
-"Park":
-  - firstname: ["Han-Mu"]
-    url: https://sites.google.com/view/hanmupark
-
 "Chung":
   - firstname: ["Joon Son"]
     url: https://mm.kaist.ac.kr/joon/
@@ -20,3 +16,10 @@
 "Cho":
   - firstname: ["Jae Won"]
     url: https://chojw.github.io/
+
+"Jeon":
+  - firstname: ["Hae Gon"]
+    url: https://sites.google.com/site/hgjeoncv/
+
+"Im":
+  - firstname: ["Sung Hoon"]
