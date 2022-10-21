@@ -6,7 +6,7 @@ subtitle: >
     <p>Contact: {firstname}.{lastname} [at] kaist.ac.kr</p>
 profile:
   align: right
-  image: minjun.jpg
+  image: minjun.png
   address: Room &#35;211, N1 Bldg, KAIST.
 
 news: false  # includes a list of news items
