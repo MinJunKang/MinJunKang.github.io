@@ -22,5 +22,5 @@ Previously, I earned my M.S. in <a href="https://ee.kaist.ac.kr/en/" target="_bl
 I also have a broad interest in learning general representations (e.g., self-supervised learning) and improving model's robustness to distribution shifts (e.g., domain generalization).</p>
 -->
 <p>
-  My research focused on low level vision including 3D reconstruction using a single image from dual-pixel. Recently, I am interested in solving dense reconstruction and tracking (SLAM) using Neural Radiance Field. My research goal is to provide 3D in any environment and facilitate our fields using 3D.
+  My research focused on low level vision including 3D reconstruction using a single image from dual-pixel. Recently, I am interested in solving dense reconstruction and tracking (SLAM) using Neural Radiance Field. My research goal is to provide 3D in any environment (on device) and facilitate related fields using 3D including editing, real-time navigation.
 </p>
