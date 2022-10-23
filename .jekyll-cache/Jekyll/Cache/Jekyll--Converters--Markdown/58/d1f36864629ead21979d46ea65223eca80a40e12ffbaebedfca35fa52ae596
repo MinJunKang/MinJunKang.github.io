@@ -1,20 +1,4 @@
----
-layout: about
-title: About
-permalink: /
-subtitle: >
-    <p>Contact: {firstname}.{lastname} [at] kaist.ac.kr</p>
-profile:
-  align: right
-  image: minjun.png
-  address: Room &#35;211, N1 Bldg, KAIST.
-
-news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
-
-<p>I am currently a Ph.D. student co-advised by Prof. <a href="http://rcv.kaist.ac.kr/" target="_blank">In So Kweon</a> and Prof. <a href="http://vi.kaist.ac.kr/" target="_blank">Kuk-Jin Yoon</a> at <a href="https://kaist.ac.kr/en/" target="_blank">Korea Advanced Institute of Science and Technology (KAIST)</a>. 
+I"§<p>I am currently a Ph.D. student co-advised by Prof. <a href="http://rcv.kaist.ac.kr/" target="_blank">In So Kweon</a> and Prof. <a href="http://vi.kaist.ac.kr/" target="_blank">Kuk-Jin Yoon</a> at <a href="https://kaist.ac.kr/en/" target="_blank">Korea Advanced Institute of Science and Technology (KAIST)</a>. 
 Previously, I earned my M.S. in <a href="https://ee.kaist.ac.kr/en/" target="_blank">Electrical Engineering</a> from <a href="https://kaist.ac.kr/en/" target="_blank">KAIST</a> (Feb. 2021) and B.S. in <a href="https://ee.yonsei.ac.kr/ee/index.do" target="_blank">Electrical Engineering</a> from <a href="https://www.yonsei.ac.kr/sc/index.jsp" target="_blank">Yonsei University</a> (Feb. 2019). </p>
 
 <!--
@@ -24,3 +8,4 @@ I also have a broad interest in learning general representations (e.g., self-sup
 <p>
   My research focused on low level vision including 3D reconstruction using a single image from dual-pixel. Recently, I am interested in solving dense reconstruction and tracking (SLAM) using Neural Radiance Field. My research goal is to provide 3D in any environment (on device) and facilitate related fields using 3D including editing, real-time navigation. <p style="color:blue;font-size:18px;">I am currently looking for internship related to <a href="https://zju3dv.github.io/neumesh/" target="_blank">Neural Radiance Fields</a> and <a href="https://dreamfusion3d.github.io/" target="_blank">3D generative models.</a></p>
 </p>
+:ET
